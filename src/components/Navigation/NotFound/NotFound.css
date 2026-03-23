@@ -1,0 +1,11 @@
+.notfound {
+    background-image: url("/src/assets/error.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
